@@ -1,3 +1,13 @@
+# Autores:
+- Carlos Andrés Cuartas Murillo - cacuartasm@eafit.edu.co
+- Santiago Mejía Chitiva - smejiac3@eafit.edu.co
+- Daniel Enrique Pinto Restrepo - dpintor1@eafit.edu.co
+- Daniel Román Ramírez - dromanr@eafit.edu.co
+
+**Mineria de datos**
+
+**Universidad EAFIT - Medellín**
+
 # SISTEMA DE RECOMENDACIÓN PARA EL SECTOR COMERCIAL ARTÍCULOS DE BELLEZA
 
 # Pregunta de investigación
