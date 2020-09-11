@@ -18,6 +18,10 @@
 - Aplicación 2 con Singular Value Decomposition (SVD)
 - Aplicación 3 con Alternating Least Square (ALS) escalado en Spark
 
+# Métrica de evaluación de modelos
+
+- RMSE: root-mean-square error
+
 # Cloud Services BIG DATA
 
 - AWS - S3- EMR
